@@ -174,7 +174,7 @@ namespace Ejemplo_de_Interface
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 23F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(608, 333);
+            this.ClientSize = new System.Drawing.Size(609, 333);
             this.Controls.Add(this.label7);
             this.Controls.Add(this.btnACuadrado);
             this.Controls.Add(this.label6);
